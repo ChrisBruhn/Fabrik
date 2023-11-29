@@ -5,7 +5,10 @@ void setup() {
 void draw() {
   background(205);
   //  bitmine();
-println((char)c);
+// den har du ikke deklareret
+//println((char)c);
+
+// her skal du kalde din funktion makeChar()
 }
 boolean bitmine() {
 
